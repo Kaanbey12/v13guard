@@ -1,0 +1,39 @@
+{ 
+  "prefix": "!",
+  "sahip": "933004871249047632",
+  "token": "OTMzMzA4MzA3Nzk4NjM4NjQy.YefpGA.07jjGpMBmwUt1jVN4Xd_G2nURAc",
+  "sesKanalı":"947204192672571432",
+  "sunucuID":"928282219271815179",
+  "sohbet":"947196314775593040",
+
+"banLog": "Ban Log kanalı ID",
+"banPerm": "Ban Yetkili Rolü ID",
+
+"mutePerm":"Mute yetkili Rolü ID",
+
+"jailRol":"Jaile atılan kullanıcı rolü ID",
+"jailLog":"Jail Log kanal ID",
+"jailPerm":"Jail yetkili rolü ID",
+
+"VIPLog":"VIP log kanal ID",
+"VIP":"VIP rol ID",
+
+"botDurum":"Maxi Codes",
+"footer":"Embed mesajlarda eğer Footer varsa yazmasını istediğiniz yazı",
+
+"tik":"Emoji ID",
+"carpi":"Emoji ID",
+"gold":"Emoji ID",
+"kizgin":"Emoji ID",
+"kirmizitik":"Emoji ID",
+"gir":"Emoji ID",
+"cik":"Emoji ID",
+"yildiz":"Emoji ID",
+"unlem":"Emoji ID",
+"duyuru":"Emoji ID",
+"zil":"Emoji ID",
+"mavitik":"Emoji ID",
+"maviyildiz":"Emoji ID",
+"toplar":"Emoji ID",
+"kalp":"Emoji ID"
+}
